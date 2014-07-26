@@ -1,21 +1,19 @@
 # Code book for Getting and Cleaning Data Course Project 
 
-The tidy data set presented along with this code book, tidy_data.txt, has the averages of mean and standard deviations of the various measurements listed below,
+The tidy data set presented along with this code book, tidy_data.txt, has the averages of mean and standard deviations of the accelerometer and gyroscope measurements listed below,
 obtained using smart phones for human activity recognition.
 
 The six activities considered are:
-1 WALKING
+"1" "WALKING
+"
+"2" "WALKING_UPSTAIRS"
+"3" "WALKING_DOWNSTAIRS"
 
-2 WALKING_UPSTAIRS
+"4" "SITTING"
+"5" "STANDING"
 
-3 WALKING_DOWNSTAIRS
-
-4 SITTING
-
-5 STANDING
-
-6 LAYING
-
+"6" "LAYING
+"
 
 The list of various mean and std measurements:
 "1" "BodyAcc-mean-X"
